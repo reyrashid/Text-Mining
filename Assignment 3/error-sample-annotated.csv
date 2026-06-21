@@ -1,0 +1,51 @@
+error_type,sentence_id,token_id,token,gold,pred,sentence,error_pattern
+FP,197,7,cream-laid,_,x,`` The note is written upon ordinary cream-laid paper without watermark .,OTHER
+FP,1376,1,Nothing,_,x,"`` Nothing wonderful in that , surely ? ''",PUNCTUATION_BOUNDARY
+FP,1502,9,he,_,x,"The mysterious one could understand English , even if he could not print it .",LONG_DISTANCE_DEPENDENCY
+FP,1148,31,done,_,x,"This quarrel had put a stop to all communications for some months , so that if Browner had occasion to address a packet to Miss Sarah , he would undoubtedly have done so to her old address .",SBAR_CLAUSE_BOUNDARY
+FP,981,14,background,_,x,This brutal preliminary seemed to shadow forth some strange and inexplicable horror in the background .,PREPOSITIONAL_PHRASE_BOUNDARY
+FP,298,12,congenial,_,x,He is not particularly intelligent -- not a man likely to be congenial to a quick-witted Latin .,MULTIPLE_NEGATION
+FP,1048,11,you,_,x,`` Ah ! you do n't know Sarah 's temper or you would wonder no more .,COORDINATION_SCOPE
+FP,1200,1,tell,_,x,"I tell you I 've not shut an eye in sleep since I did it , and I do n't believe I ever will again until I get past all waking .",COORDINATION_SCOPE
+FP,1531,5,more,_,x,`` I 'll have no more of it !,OTHER
+FP,1232,10,for,_,x,"There was no need for her to speak , nor for me either .",SBAR_CLAUSE_BOUNDARY
+FP,1432,8,him,_,x,`` He had one big brown bag with him -- nothing else . '',PREPOSITIONAL_PHRASE_BOUNDARY
+FP,390,29,of,_,x,"It was n't black , sir , nor was it white , nor any colour that I know but a kind of queer shade like clay with a splash of milk in it .",MULTIPLE_NEGATION
+FP,443,6,say,_,x,"Your powers , if I may say so without offence , seem superior to your opportunities . ''",SBAR_CLAUSE_BOUNDARY
+FP,1483,3,alone,_,x,This person is alone and can not be approached by letter without a breach of that absolute secrecy which is desired .,COORDINATION_SCOPE
+FP,474,10,humble,_,x,Sufficient for me to share the sport and lend my humble help to the capture without distracting that intent brain with needless interruption .,SBAR_CLAUSE_BOUNDARY
+FP,691,0,We,_,x,"We ca n't arrest without her evidence , that is clear , so the sooner we get a statement the better . ''",COORDINATION_SCOPE
+FP,989,13,pierced,_,x,"The other is a man 's , sun-burned , discoloured , and also pierced for an earring .",COORDINATION_SCOPE
+FP,1849,4,nor,_,x,He had neither money nor position -- nothing but his beauty and strength and energy -- so my father forbade the match .,SBAR_CLAUSE_BOUNDARY
+FP,1453,13,Warren,_,x,"I suppose there could not be two people in your rooms , Mrs. Warren ? ''",SBAR_CLAUSE_BOUNDARY
+FP,853,3,I,_,x,"`` No , I can not . ''",MODAL_CONSTRUCTION
+FP,1484,0,This,_,x,This person is alone and can not be approached by letter without a breach of that absolute secrecy which is desired .,OTHER
+FP,52,6,your,_,x,But no one can glance at your toilet and attire without seeing that your disturbance dates from the moment of your waking . '',OTHER
+FP,1557,1,nothing,_,x,Do nothing rash .,SBAR_CLAUSE_BOUNDARY
+FP,1542,3,morning,_,x,"Well , this morning he had not gone ten paces down the road when two men came up behind him , threw a coat over his head , and bundled him into a cab that was beside the curb .",OTHER
+FP,500,39,lurking,_,x,"Every effort was made by Inspector Baynes , who has the case in hand , to ascertain the hiding place of the fugitives , and he had good reason to believe that they had not gone far but were lurking in some retreat which had been already prepared .",LONG_DISTANCE_DEPENDENCY
+FN,880,10,you,x,_,I should not have intruded it upon your attention had you not shown some incredulity the other day .,MULTIPLE_NEGATION
+FN,1335,5,cease,x,_,"`` But he would never cease talking of it -- your kindness , sir , and the way in which you brought light into the darkness .",COORDINATION_SCOPE
+FN,1271,20,",",x,_,"`` ` Well , I do n't know now whether it was pure devilry on the part of this woman , or whether she thought that she could turn me against my wife by encouraging her to misbehave .",OTHER
+FN,1238,18,I,x,_,"I was a fool to let her go on biding with us -- a besotted fool -- but I never said a word to Mary , for I knew it would grieve her .",LONG_DISTANCE_DEPENDENCY
+FN,1440,4,here,x,_,"`` There is nothing here , '' said he .",SBAR_CLAUSE_BOUNDARY
+FN,1260,1,Do,x,_,"`` Do n't , Jim , do n't ! '' says she .",SBAR_CLAUSE_BOUNDARY
+FN,1554,3,everything,x,_,Money 's not everything .,OTHER
+FN,412,10,knew,x,_,Telegraphic inquiries had been already made which showed that Marx knew nothing of his customer save that he was a good payer .,SBAR_CLAUSE_BOUNDARY
+FN,760,0,How,x,_,"How they murdered him I do not know , save that it was Murillo 's hand who struck him down , for Lopez had remained to guard me .",SBAR_CLAUSE_BOUNDARY
+FN,127,19,impatience,x,_,"He continually drummed his fingers on the table , gnawed his nails , and gave other signs of nervous impatience .",PREPOSITIONAL_PHRASE_BOUNDARY
+FN,298,3,particularly,x,_,He is not particularly intelligent -- not a man likely to be congenial to a quick-witted Latin .,MULTIPLE_NEGATION
+FN,1919,8,",",x,_,"I do not myself know where he lived , or how .",SBAR_CLAUSE_BOUNDARY
+FN,1424,2,gave,x,_,`` He gave no name ? '',OTHER
+FN,213,7,sleeve-link,x,_,The oval seal is undoubtedly a plain sleeve-link -- what else is of such a shape ?,OTHER
+FN,989,9,discoloured,x,_,"The other is a man 's , sun-burned , discoloured , and also pierced for an earring .",OTHER
+FN,1293,11,I,x,_,"When we reached it they walked along the Parade , and I was never more than a hundred yards from them .",OTHER
+FN,790,9,murderers,x,_,"The crime was ascribed to Nihilism , and the murderers were never arrested .",OTHER
+FN,1327,17,uneasiness,x,_,"`` Well , Mrs. Warren , I can not see that you have any particular cause for uneasiness , nor do I understand why I , whose time is of some value , should interfere in the matter .",SBAR_CLAUSE_BOUNDARY
+FN,332,4,said,x,_,She would not have said ` Godspeed ' had it not been so .,MULTIPLE_NEGATION
+FN,1468,19,out,x,_,"`` Well , apart from this cigarette-end , was it not suggestive that the only time the lodger went out was immediately after his taking the rooms ?",SBAR_CLAUSE_BOUNDARY
+FN,1544,13,saw,x,_,He lay in the roadway so shaken in his wits that he never saw what became of the cab .,SBAR_CLAUSE_BOUNDARY
+FN,222,26,household,x,_,"`` But I beg to point out that I have not yet heard what has happened to Mr. Garcia , nor what has become of his household . ''",SBAR_CLAUSE_BOUNDARY
+FN,399,17,not,x,_,If it were the devil himself a constable on duty should never thank God that he could not lay his hands upon him .,SBAR_CLAUSE_BOUNDARY
+FN,975,1,ears,x,_,These ears bear no signs of this .,OTHER
+FN,635,5,for,x,_,"The woman 's disappearance counts for nothing , since in that extraordinary household any member of it might be invisible for a week .",OTHER
